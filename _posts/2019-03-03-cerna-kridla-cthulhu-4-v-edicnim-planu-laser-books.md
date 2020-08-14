@@ -15,7 +15,6 @@ Začátkem února 2019 vydalo nakladatelství Laser-books po dlouhé odmlce edi�
 Vydání knihy je plánováno na červen 2019. Těšit se můžeme opět na vydání v pevvné vazbě a především na sedmnáct povídek lovecraftovského hororu v překladu Milana Žáčka.
 
 ![kniha](/assets/post-img/2019-03-03-cerna-kridla-cthulhu-4-v-edicnim-planu-laser-books/kridla-4-edicni-plan-laser-2019.jpg)
-
 *Zdroj obrázku: Ediční plán Laser-books*
 
 
