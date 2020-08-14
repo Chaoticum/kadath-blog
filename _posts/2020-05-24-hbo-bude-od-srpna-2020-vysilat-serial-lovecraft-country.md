@@ -4,9 +4,9 @@ title: "HBO bude od srpna 2020 vysílat seriál Lovecraft Country"
 permalink: /hbo-bude-od-srpna-2020-vysilat-serial-lovecraft-country/
 date: 2020-05-24
 author: Lovecraftian Dreamer
-cover-img: /assets/post-img/2020-05-24-hbo-bude-od-srpna-2020-vysilat-serial-lovecraft-country/lovecraft-country-teaser-cover.jpg
-thumbnail-img: /assets/post-img/2020-05-24-hbo-bude-od-srpna-2020-vysilat-serial-lovecraft-country/lovecraft-country-teaser-thumb.jpg
-share-img: /assets/post-img/2020-05-24-hbo-bude-od-srpna-2020-vysilat-serial-lovecraft-country/lovecraft-country-teaser-social.jpg
+cover-img: /assets/post-img/2020-05-24-hbo-bude-od-srpna-2020-vysilat-serial-lovecraft-country/02-cover-lovecraft-country.jpg
+thumbnail-img: /assets/post-img/2020-05-24-hbo-bude-od-srpna-2020-vysilat-serial-lovecraft-country/01-thumb-lovecraft-country.jpg
+share-img: /assets/post-img/2020-05-24-hbo-bude-od-srpna-2020-vysilat-serial-lovecraft-country/02-cover-lovecraft-country.jpg
 tags: [novinky]
 ---
 
