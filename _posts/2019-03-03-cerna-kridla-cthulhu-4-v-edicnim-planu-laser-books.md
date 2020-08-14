@@ -3,7 +3,7 @@ layout: post
 title: "Černá křídla Cthulhu 4 v edičním plánu Laser-books"
 permalink: /cerna-kridla-cthulhu-4-v-edicnim-planu-laser-books/
 date: 2019-03-03
-cover-img: /assets/post-img/2019-03-03-cerna-kridla-cthulhu-4-v-edicnim-planu-laser-books/kridla-4-cover.jpg
+cover-img: /assets/post-img/2019-03-03-cerna-kridla-cthulhu-4-v-edicnim-planu-laser-books/kridla-4-social.jpg
 thumbnail-img: /assets/post-img/2019-03-03-cerna-kridla-cthulhu-4-v-edicnim-planu-laser-books/kridla-4-thumb.jpg
 share-img: /assets/post-img/2019-03-03-cerna-kridla-cthulhu-4-v-edicnim-planu-laser-books/kridla-4-social.jpg
 author: Lovecraftian Dreamer
