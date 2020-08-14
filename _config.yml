@@ -2,9 +2,9 @@
 
 title: Kadath
 
-description: Sny o temnotě
+description: Světy utkané ze snů a temnoty
 
-author: Lovecraftian Dreams
+author: Lovecraftian Dreamer
 
 navbar-links:
  Kontakt: "kontakt"
@@ -74,7 +74,7 @@ navbar-col: "#ffffff"
 navbar-text-col: "#404040"
 navbar-border-col: "#969696"
 page-col: "#FFFFFF"
-link-col: "#ff885a"
+link-col: "#5e0091"
 hover-col: "#7400B3"
 footer-col: "#ffffff"
 footer-text-col: "#777777"
