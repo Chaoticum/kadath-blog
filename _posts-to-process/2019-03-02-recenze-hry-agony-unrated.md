@@ -3,11 +3,11 @@ layout: post
 title: "Recenze hry Agony UNRATED"
 permalink: /recenze-hry-agony-unrated/
 date: 2019-03-02
-cover-img: /assets/post-img/
 thumbnail-img: /assets/post-img/
+cover-img: /assets/post-img/
 share-img: /assets/post-img/
 author: Lovecraftian Dreamer
-tags: [novinky]
+tags: [recenze]
 ---
 
 Cesta k vykoupení není snadná. Zdolat pekelné kruhy plné démonů a nástrah nestačí. Odhalit pravdu o sobě samém je klíčem k úspěchu a přežití ve sféře, kde vládne Rudá Bohyně a její věrné kněžky.

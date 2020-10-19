@@ -3,8 +3,8 @@ layout: post
 title: "Madmind Studio představilo trailer připravované hry SUCCUBUS"
 permalink: /madmind-studio-predstavilo-trailer-pripravovane-hry-succubus/
 date: 2019-02-16
-cover-img: /assets/post-img/2019-02-16-madmind-studio-predstavilo-trailer-pripravovane-hry-succubus/02-cover-succubus.jpg
 thumbnail-img: /assets/post-img/2019-02-16-madmind-studio-predstavilo-trailer-pripravovane-hry-succubus/01-thumb-succubus.jpg
+cover-img: /assets/post-img/2019-02-16-madmind-studio-predstavilo-trailer-pripravovane-hry-succubus/02-cover-succubus.jpg
 share-img: /assets/post-img/2019-02-16-madmind-studio-predstavilo-trailer-pripravovane-hry-succubus/02-cover-succubus.jpg
 author: Lovecraftian Dreamer
 tags: [novinky]
