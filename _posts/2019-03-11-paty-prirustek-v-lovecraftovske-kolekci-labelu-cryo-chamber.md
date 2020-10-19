@@ -3,8 +3,8 @@ layout: post
 title: "Pátý přírůstek v lovecraftovské kolekci labelu Cryo Chamber"
 permalink: /paty-prirustek-v-lovecraftovske-kolekci-labelu-cryo-chamber/
 date: 2019-03-11
-cover-img: /assets/post-img/2019-03-11-paty-prirustek-v-lovecraftovske-kolekci-labelu-cryo-chamber/01-thumb-cryo-chamber.jpg
-thumbnail-img: /assets/post-img/2019-03-11-paty-prirustek-v-lovecraftovske-kolekci-labelu-cryo-chamber/02-cover-cryo-chamber.jpg
+thumbnail-img: /assets/post-img/2019-03-11-paty-prirustek-v-lovecraftovske-kolekci-labelu-cryo-chamber/01-cover-cryo-chamber.jpg
+cover-img: /assets/post-img/2019-03-11-paty-prirustek-v-lovecraftovske-kolekci-labelu-cryo-chamber/02-thumb-cryo-chamber.jpg
 share-img: /assets/post-img/2019-03-11-paty-prirustek-v-lovecraftovske-kolekci-labelu-cryo-chamber/02-cover-cryo-chamber.jpg
 author: Lovecraftian Dreamer
 tags: [novinky]
