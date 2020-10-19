@@ -4,8 +4,8 @@ title: "Movie Games Lunarium připravují hru Lust from Beyond"
 permalink: /movie-games-lunarium-pripravuji-hru-lust-from-beyond/
 date: 2019-03-04
 thumbnail-img: /assets/post-img/2019-03-04-movie-games-lunarium-pripravuji-hru-lust-from-beyond/01-thumb-lust-from-beyond.jpg
-cover-img: /assets/post-img/2019-03-04-movie-games-lunarium-pripravuji-hru-lust-from-beyond/02-thumb-lust-from-beyond.jpg
-share-img: /assets/post-img/2019-03-04-movie-games-lunarium-pripravuji-hru-lust-from-beyond/02-thumb-lust-from-beyond.jpg
+cover-img: /assets/post-img/2019-03-04-movie-games-lunarium-pripravuji-hru-lust-from-beyond/02-cover-lust-from-beyond.jpg
+share-img: /assets/post-img/2019-03-04-movie-games-lunarium-pripravuji-hru-lust-from-beyond/02-cover-lust-from-beyond.jpg
 author: Lovecraftian Dreamer
 tags: [novinky]
 ---
