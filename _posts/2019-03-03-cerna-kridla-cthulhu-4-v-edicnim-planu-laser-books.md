@@ -23,9 +23,3 @@ Vydání knihy je plánováno na červen 2019. Těšit se můžeme opět na vyd�
 * [Profil knihy na webu Knižního klubu](https://www.knizniklub.cz/knihy/358621-cerna-kridla-cthulhu-4.html).
 * [Facebookový profil Laser-books](https://www.facebook.com/LaserBooks/).
 * [Web Laser-books](http://www.laser-books.cz/).
-
-**Test:**
-
-{% raw %}
-  <a href="/assets/post-img/2019-03-03-cerna-kridla-cthulhu-4-v-edicnim-planu-laser-books/02-cover-kridla-4.jpg" onClick="ga('send', 'event', 'link-click', 'image', 'OKR poster');">Purchase Details</a>
-{% endraw %}
