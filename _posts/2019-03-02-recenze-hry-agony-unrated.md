@@ -20,12 +20,12 @@ Všechny lokace jsou plné nástrah, pastí a nebezpečných nepřátelských en
 
 Pokud se budete chovat tiše a obezřetně, tak máte šanci přežít a odhalit mnoho tajemství schovaných napříč čtyřmi rozsáhlými kapitolami. Démoni totiž nejsou obdaření zrakem, ale především dobrých sluchem a vnímáním pohybu. Část hry se proto budete pomalu plížit po krvavých bludištích a temných místech naplněných strachem a beznadějí.
 
-Cílem vaší cesty je Rudá Bohyně. Vládkyně pekla. Jen ona zná odpovědi na všechny vaše otázky. Zvládnete odolat jejímu pokušení nebo se stanete věrným služebníkem sil temnoty?
-
 {% raw %}
   <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/lL3ZS6TFyK0' frameborder='0' allowfullscreen></iframe></div>
 {% endraw %}
-/
+
+Cílem vaší cesty je Rudá Bohyně. Vládkyně pekla. Jen ona zná odpovědi na všechny vaše otázky. Zvládnete odolat jejímu pokušení nebo se stanete věrným služebníkem sil temnoty?
+
 ## Herní mechaniky
 
 Na začátku máte jen jednu schopnost - posednout těla mučedníků. Pokud vaši fyzickou schránku zničí past nebo nepřítel, tak máte možnost najít si nového hostitele. Čas, který můžete strávit a cestovat jako duše, je ovšem omezený a je nutné jednat rychle.
@@ -140,8 +140,8 @@ Celkové ztvárnění pekla a démonů je ovšem báječné a kreativní. Určit
 Nepochybně by se dalo napsat mnoho dalších slov chvály i oprávněné kritiky. Vše podstatné už ale bylo zmíněné a nemá cenu to dál rozmazávat. Užijte si obrázky v galerii. A v komentářích určitě dejte vedět, co si o Agony myslíte vy.
 
 ## Galerie pekelných výjevů
-{% raw %}
-  <br />
-{% endraw %}
+
+Několik screenshotů z různých částí hry UNRATED verze.
+
 {% include image-gallery.html folder="/assets/post-img/2019-03-02-recenze-hry-agony-unrated/gallery" %}
 *Zdroj obrázků: screenshoty ze hry*
