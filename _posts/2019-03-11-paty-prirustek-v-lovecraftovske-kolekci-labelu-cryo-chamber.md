@@ -10,7 +10,7 @@ author: Lovecraftian Dreamer
 tags: [novinky]
 ---
 
-Hudební label Cryo Chamber vydal 4. prosince 2018 páté album zasvěcené Prastarým. Hlavním motivem je Shub-Niggurath.
+Hudební label Cryo Chamber vydal 4. prosince 2018 páté album zasvěcené Prastarým. Hlavním motivem je **Shub-Niggurath**.
 
 Nový dark ambient počin z lovecraftovského cyklu má stopáž kolem 2 hodin a na jeho tvorbě se podílelo 20 umělců a hudebních studií. Jedná se například o Atrium Carceri, Council of Nine, Aegri Somnia či Kammarheit.
 
