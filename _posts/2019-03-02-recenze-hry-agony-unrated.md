@@ -10,7 +10,7 @@ author: Lovecraftian Dreamer
 tags: [recenze]
 ---
 
-{% include image-gallery.html folder="assets/post-img/2019-03-02-recenze-hry-agony-unrated" %}
+{% include image-gallery.html folder="/assets/post-img/2019-03-02-recenze-hry-agony-unrated" %}
 
 test
 
