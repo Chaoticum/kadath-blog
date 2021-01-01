@@ -10,6 +10,8 @@ author: Lovecraftian Dreamer
 tags: [recenze]
 ---
 
+{% include image-gallery.html folder="assets/post-img/2019-03-02-recenze-hry-agony-unrated" %}
+
 Cesta k vykoupení není snadná. Zdolat pekelné kruhy plné démonů a nástrah nestačí. Odhalit pravdu o sobě samém je klíčem k úspěchu a přežití ve sféře, kde vládne Rudá Bohyně a její věrné kněžky.
 
 ## O hře
