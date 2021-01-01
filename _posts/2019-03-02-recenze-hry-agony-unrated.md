@@ -140,7 +140,7 @@ Celkové ztvárnění pekla a démonů je ovšem báječné a kreativní. Určit
 Nepochybně by se dalo napsat mnoho dalších slov chvály i oprávněné kritiky. Vše podstatné už ale bylo zmíněné a nemá cenu to dál rozmazávat. Užijte si obrázky v galerii. A v komentářích určitě dejte vedět, co si o Agony myslíte vy.
 
 ## Galerie pekelných výjevů
-
+/
 {% include image-gallery.html folder="/assets/post-img/2019-03-02-recenze-hry-agony-unrated/gallery" %}
-\
+
 *Zdroj obrázků: screenshoty ze hry*
