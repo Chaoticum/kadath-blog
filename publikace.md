@@ -18,4 +18,3 @@ subtitle: Literární, audio, či vizuální dílo HPL v Česku a Slovensku
 # 2020
 
 - Temnota nepomíjí - Artur Machen - Malvern
-  - poznámka test
