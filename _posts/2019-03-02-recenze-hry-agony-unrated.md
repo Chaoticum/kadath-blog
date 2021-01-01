@@ -137,11 +137,11 @@ Spektrum chyb je však natolik široké a frustrující, že není možné je ig
 
 Celkové ztvárnění pekla a démonů je ovšem báječné a kreativní. Určitě stojí za to hru vyzkoušet a užít si pekelné scenérie. A třeba vás to i nakonec chytne. Jisté ovšem je, že tvůrci Agony promarnili obrovský potenciál, který nejspíše nenapraví ani [připravovaný spin-off SUCCUBUS](https://kadath.cz/madmind-studio-predstavilo-trailer-pripravovane-hry-succubus/).
 
-Nepochybně by se dalo napsat mnoho dalších slov chvály i oprávněné kritiky. Vše podstatné už ale bylo zmíněné a nemá cenu to dál rozmazávat. Užijte si obrázky v galerii. A v komentářích určitě dejte vedět, co si o Agony myslíte vy.
+Nepochybně by se dalo napsat mnoho dalších slov chvály i oprávněné kritiky. Vše podstatné už ale bylo zmíněné a nemá cenu to dál rozmazávat. 
 
 ## Galerie pekelných výjevů
 
-Několik screenshotů z různých částí hry UNRATED verze.
+Několik screenshotů z různých částí UNRATED verze hry.
 
 {% include image-gallery.html folder="/assets/post-img/2019-03-02-recenze-hry-agony-unrated/gallery" %}
 *Zdroj obrázků: screenshoty ze hry*
