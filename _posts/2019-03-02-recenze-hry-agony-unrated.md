@@ -3,9 +3,9 @@ layout: post
 title: "Recenze hry Agony UNRATED"
 permalink: /recenze-hry-agony-unrated/
 date: 2019-03-02
-thumbnail-img: /assets/post-img/
-cover-img: /assets/post-img/
-share-img: /assets/post-img/
+thumbnail-img: /assets/post-img/2019-03-02-recenze-hry-agony-unrated/01-thumb-agony-unrated.jpg
+cover-img: /assets/post-img/2019-03-02-recenze-hry-agony-unrated/02-cover-agony-unrated.jpg
+share-img: /assets/post-img/2019-03-02-recenze-hry-agony-unrated/02-cover-agony-unrated.jpg
 author: Lovecraftian Dreamer
 tags: [recenze]
 ---
