@@ -22,11 +22,9 @@ Pokud se budete chovat tiše a obezřetně, tak máte šanci přežít a odhalit
 
 Cílem vaší cesty je Rudá Bohyně. Vládkyně pekla. Jen ona zná odpovědi na všechny vaše otázky. Zvládnete odolat jejímu pokušení nebo se stanete věrným služebníkem sil temnoty?
 
-<!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=lL3ZS6TFyK0","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://www.youtube.com/watch?v=lL3ZS6TFyK0
-</div><figcaption><em>Jeden z mnoha oficiálních trailerů. Vloženo z YouTube kanálu Madmind Studio.</em></figcaption></figure>
-<!-- /wp:core-embed/youtube -->
+{% raw %}
+  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/lL3ZS6TFyK0' frameborder='0' allowfullscreen></iframe></div>
+{% endraw %}
 
 ## Herní mechaniky
 
@@ -40,8 +38,8 @@ Schopnost "vize", pomocí které se dají odhalit různá skrytá místa, využi
 
 Pokročilé schopnosti působí v první chvíli docela zajímavě. Jedná se například o již zmíněnou šanci na zapálení pavouků, kteří se vyskytují v některých lokacích. Problém je v tom, že tuto schopnost je možné odemknout až v pokročilé fázi hry, kdy se již pavouci ve hře prakticky nevyskytují. Nebo se vyskytují na místě, kde schopnost není možné použít. Cílem v tomto případě není zjednodušení stávající hry, ale slouží spíše ke zpříjemnění opakovaného průchodu hrou od začátku v režimu New Game Plus, o kterém bude řeč později.
 
-
-<figure class="wp-block-image"><img src="https://kadath.cz/wp-content/uploads/2019/03/cross-1024x576.jpg" alt="" class="wp-image-53"/><figcaption><em>Pekelná scenérie
+![Pekelná scenérie](/assets/post-img/2019-03-02-recenze-hry-agony-unrated/gallery/cross.jpg) \
+*Pekelná scenérie; Zdroj obrázku: screenshot ze hry*
 
 ## Bugy a jiná havěť
 
@@ -60,7 +58,8 @@ Pokud jste viděli trailery a videa, tak pravděpodobně očekáváte, že hrát
 
 Místo zábavy a krátkodobého pocitu moci spíše budete doufat, abyste se mohli převtělit do nějaké obyčejné nedémonické entity. Zásadní nevýhodou pak také je, že jako démoni nemůžete sbírat žádné předměty.
 
-<figure class="wp-block-image"><img src="https://kadath.cz/wp-content/uploads/2019/03/onoskelis-statue-1024x576.jpg" alt="" class="wp-image-63"/><figcaption><em>Socha Onoskelis.
+![Socha Onoskelis](/assets/post-img/2019-03-02-recenze-hry-agony-unrated/gallery/onoskelis-statue.jpg) \
+*Socha Onoskelis; Zdroj obrázku: screenshot ze hry*
 
 ## Sbírání nesmyslů
 
@@ -76,7 +75,8 @@ Celý tento systém působí tak trochu jako trest pro hráče, kteří poctivě
 
 Ještě je dobré dodat, že sběratelské předměty a tajné lokace odemykají speciální konce hry. Napříkad po objevení však padlých andělů můžete odemknout "andělský konec".
 
-<img src="https://kadath.cz/wp-content/uploads/2019/03/angel-1024x576.jpg" alt="" class="wp-image-47"/><figcaption><em>Padlý anděl.
+![Socha Onoskelis](/assets/post-img/2019-03-02-recenze-hry-agony-unrated/gallery/fallen-angel.jpg) \
+*Padlý anděl; Zdroj obrázku: screenshot ze hry*
 
 ## Mapa a minimapa
 
@@ -87,23 +87,15 @@ Minimapa je oproti tomu docela užitečná a může výrazně zjednodušit a ury
 ## Znovuhratelnost a herní konce
 
 Agony nabízí neuvěřitelně vysoký počet alternativních konců. Celkem by se mělo jednat o osm unikátních zakončení. Jednalo by se o velice pozitivní skutečnost, nebýt toho, že shlédnout všechny konce vyžaduje celou hru dohrát minimálně 8x celou od začátku. A najít všechny sběratelské předměty napříč všemi herními mody.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>Teoreticky by to celé mohlo fungovat. V praxi je hlavním negativem linearita hry a neunikátnost každé nové hry. Všechny lokace jsou při každém průchodu stejné. A znovuhratelnost je dle mého názoru tím pádem naprosto minimální. </p>
-<!-- /wp:paragraph -->
+Teoreticky by to celé mohlo fungovat. V praxi je hlavním negativem linearita hry a neunikátnost každé nové hry. Všechny lokace jsou při každém průchodu stejné. A znovuhratelnost je dle mého názoru tím pádem naprosto minimální.
 
-<!-- wp:paragraph -->
-<p>Agony zcela určitě nedosahuje takových kvalit, aby si zasluhovala 8x dohrát. Každou ze čtyř rozsáhlých kapitol je možné projít za 60-90 minut. Tuto dobu natahují pouze skryté předměty a bugy. A jak jsem již dříve naznačil, tak množství tajných místností a předmětů zanechává spíše hořkou pachuť, než touhu po spuštění nové hry.</p>
-<!-- /wp:paragraph -->
+Agony zcela určitě nedosahuje takových kvalit, aby si zasluhovala 8x dohrát. Každou ze čtyř rozsáhlých kapitol je možné projít za 60-90 minut. Tuto dobu natahují pouze skryté předměty a bugy. A jak jsem již dříve naznačil, tak množství tajných místností a předmětů zanechává spíše hořkou pachuť, než touhu po spuštění nové hry.
 
-<!-- wp:paragraph -->
-<p>Jediné co má smysl vyzkoušet je succubus mod, ve kterém si zahraje za jednu z kněžek Rudé Bohyně. Všechny lokace poznáte z  trochu jiného pohledu a užijete si více akce. </p>
-<!-- /wp:paragraph -->
+Jediné co má smysl vyzkoušet je succubus mod, ve kterém si zahraje za jednu z kněžek Rudé Bohyně. Všechny lokace poznáte z  trochu jiného pohledu a užijete si více akce.
 
-<!-- wp:image {"id":64} -->
-<figure class="wp-block-image"><img src="https://kadath.cz/wp-content/uploads/2019/03/path-1024x576.jpg" alt="" class="wp-image-64"/><figcaption><em>Stezka v pekle.
-
+![Stezka v pekle](/assets/post-img/2019-03-02-recenze-hry-agony-unrated/gallery/path.jpg) \
+*Stezka v pekle; Zdroj obrázku: screenshot ze hry*
 
 ## Level desing a grafika
 
@@ -117,24 +109,25 @@ Herní design úrovní je slabší. Agony určitě není hra, o které si řekne
 
 Tajné místnosti jsou většinou nedostupné. A vše důležité pro dohrání hry naleznete bez větších obtíží v okruhu pár metrů na trase lineární cesty od začátku až do konce hry
 
-<img src="https://kadath.cz/wp-content/uploads/2019/03/tree-1024x576.jpg" alt="" class="wp-image-75"/><figcaption><em>Strom života.
+![Strom života](/assets/post-img/2019-03-02-recenze-hry-agony-unrated/gallery/tree.jpg) \
+*Strom života; Zdroj obrázku: screenshot ze hry*
 
 ## Kontroverze
 
-Neblahá cesta Agony začala v říjnu roku 2016, kdy byla spuštěná kampaň <a href="https://www.kickstarter.com/projects/playway/agony">Agony by Playway na Kickstarteru</a>. Hra zaujala mnoho lidí a v poměrně krátkém čase byla kompletně zafinancovaná a fanoušci natěšení na nezvykle temný a krvavý zážitek.
+Neblahá cesta Agony začala v říjnu roku 2016, kdy byla spuštěná kampaň [Agony by Playway na Kickstarteru](https://www.kickstarter.com/projects/playway/agony). Hra zaujala mnoho lidí a v poměrně krátkém čase byla kompletně zafinancovaná a fanoušci natěšení na nezvykle temný a krvavý zážitek.
 
 Vývoj hry byl poměrně ambiciózní a ukázalo se, že původně slíbený termín vydání není možné stihnout. To není nic neobvyklého, zvláště u her financovaných přes Kickstarter. Agony však vyniklo a proslulo díky velkému množství odkladů. Po třetím a rozhodně ne posledním nesplněném termínu začala docházat fanouškům trpělivost. V nějaké fázi byla hra raději odložena na neurčito.
 
-Na jaře roku 2018 se konečně podařilo polskému <a href="http://madmind-studio.com/">Madmind Studio</a> hru dokončit. Vydání hry však předcházela velmi nepříjemná zpráva. A to, že Agony bude k dispozici pouze v silně cenzurované verzi bez nahoty, vulgarit a dsrných krvavých výjevů. Vše na co se fanoušci těšili bylo zbořeno. Údajně bez jakékoliv šance na změnu, navzdory silným protestům a nelibosti komunity. Další velká rána byla, že hra přinesla trochu jiný zážitek, než slibovaly některé trailery a demo.
+Na jaře roku 2018 se konečně podařilo polskému [Madmind Studio](http://madmind-studio.com/) hru dokončit. Vydání hry však předcházela velmi nepříjemná zpráva. A to, že Agony bude k dispozici pouze v silně cenzurované verzi bez nahoty, vulgarit a dsrných krvavých výjevů. Vše na co se fanoušci těšili bylo zbořeno. Údajně bez jakékoliv šance na změnu, navzdory silným protestům a nelibosti komunity. Další velká rána byla, že hra přinesla trochu jiný zážitek, než slibovaly některé trailery a demo.
 
-
-<figure class="wp-block-image"><img src="https://kadath.cz/wp-content/uploads/2019/03/stakes-1024x576.jpg" alt="" class="wp-image-71"/><figcaption><em>Mučedníci na kůlech.
+![Mučedníci na kůlech](/assets/post-img/2019-03-02-recenze-hry-agony-unrated/gallery/stakes.jpg) \
+*Mučedníci na kůlech; Zdroj obrázku: screenshot ze hry*
 
 To co nakonec hru položilo na bedra však bylo hlavně velké množství bugů, velmi špatná optimalizace a nedoržení mnoha slibů vývojářů z Madmind. V kombinaci s vysokou cenovkou a celkově nespokojenými fanoušky to nezní jako dobrý recept na úspěch. První opravné patche přišly až po docela dlouhé době. A hra mezitím propadala u fanoušků i kritiků.
 
-V průběhu podzimu roku 2018 se stalo nečekané. Na Steamu vedle <a href="https://store.steampowered.com/app/487720/Agony/">Agony</a> přistálo <a href="https://store.steampowered.com/app/879420/Agony_UNRATED/">Agony UNRATED</a>. Kompletně necenzurovaná verze hry, tak jak bylo původně zamýšleno. Navíc s výrazně nižší cenovkou a zdarma pro všechny stávající majitele Agony.  Část fanoušků si tím Madmind získalo zpět a UNRATED verze získala o něco málo lepší ohlasy i navzdory mnoha chybám a nedostatkům.
+V průběhu podzimu roku 2018 se stalo nečekané. Na Steamu vedle [Agony](https://store.steampowered.com/app/487720/Agony/) přistálo [Agony UNRATED](https://store.steampowered.com/app/879420/Agony_UNRATED/). Kompletně necenzurovaná verze hry, tak jak bylo původně zamýšleno. Navíc s výrazně nižší cenovkou a zdarma pro všechny stávající majitele Agony.  Část fanoušků si tím Madmind získalo zpět a UNRATED verze získala o něco málo lepší ohlasy i navzdory mnoha chybám a nedostatkům.
 
-Je férové ještě dodat, že vydavatelem hry je polská společnost <a href="http://www.playway.com/">Playway</a>, která se specializuje na nízko a středně rozpočtové hry. Áčkové tituly od Playway tudíž nemá smysl očekávat. Ale trochu více péče by si bez diskuzí ambiciózní hry jako Agony rozhodně zasloužily.
+Je férové ještě dodat, že vydavatelem hry je polská společnost [Playway](http://www.playway.com/), která se specializuje na nízko a středně rozpočtové hry. Áčkové tituly od Playway tudíž nemá smysl očekávat. Ale trochu více péče by si bez diskuzí ambiciózní hry jako Agony rozhodně zasloužily.
 
 ## Závěrem
 
@@ -142,10 +135,12 @@ Mrzí mě, že jsem o Agony nemohl napsat více pozitivních slov. Doufal jsem, 
 
 Spektrum chyb je však natolik široké a frustrující, že není možné je ignorovat. Ať už se jedná o bugy, špatnou optimalizaci nebo nutnost osmi kompletních průchodů hry pro odemčení veškerého obsahu.
 
-Celkové ztvárnění pekla a démonů je ovšem báječné a kreativní. Určitě stojí za to hru vyzkoušet a užít si pekelné scenérie. A třeba vás to i nakonec chytne. Jisté ovšem je, že tvůrci Agony promarnili obrovský potenciál, který nejspíše nenapraví ani <a href="https://kadath.cz/madmind-studio-predstavilo-trailer-pripravovane-hry-succubus/">připravovaný spin-off SUCCUBUS</a>.
+Celkové ztvárnění pekla a démonů je ovšem báječné a kreativní. Určitě stojí za to hru vyzkoušet a užít si pekelné scenérie. A třeba vás to i nakonec chytne. Jisté ovšem je, že tvůrci Agony promarnili obrovský potenciál, který nejspíše nenapraví ani [připravovaný spin-off SUCCUBUS](https://kadath.cz/madmind-studio-predstavilo-trailer-pripravovane-hry-succubus/).
 
 Nepochybně by se dalo napsat mnoho dalších slov chvály i oprávněné kritiky. Vše podstatné už ale bylo zmíněné a nemá cenu to dál rozmazávat. Užijte si obrázky v galerii. A v komentářích určitě dejte vedět, co si o Agony myslíte vy.
 
 ## Galerie pekelných výjevů
 
 {% include image-gallery.html folder="/assets/post-img/2019-03-02-recenze-hry-agony-unrated/gallery" %}
+\
+*Zdroj obrázků: screenshoty ze hry*
