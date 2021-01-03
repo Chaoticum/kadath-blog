@@ -6,14 +6,14 @@ subtitle: Literární, audio, či vizuální dílo HPL v Česku a Slovensku
 
 # 2021
 
-## Vychází
+### Vychází
 
 - Neonomicon - Alan Moore - Argo - 31. 1. 2021
 - Pahorek snů - Artur Machen - Malvern - ???
 - Černá křídla Cthulhu 6 - S. T. Joshi - Laser - ???
 - Cosi zdola - S. T. Joshi - Carcosa - ???
 
-## Vyšlo
+### Vyšlo
 
 - zatím nic
 
@@ -22,7 +22,9 @@ subtitle: Literární, audio, či vizuální dílo HPL v Česku a Slovensku
 - Barva z kosmu - H. P. Lovecraft
   - LOVECRAFT, H. P. Barva z kosmu. Přeložil Milan ŽÁČEK, Redakce a korektury Tat & Cass, Petr STEJSKAL a Patrik LINHART. Kroměříž: Carcosa, 2020, 320 s. ISBN 978-80-88243-35-9.
 - Černá křídla Cthulhu 5 - S. T. Joshi
-  - JOSHI, S. T. Černá křídla Cthulhu 5: Dvacet nových povídek lovecraftovského hororu. Přeložil Milan ŽÁČEK, Přebásnil Filip PARDY. Praha: Euromedia Group, 2020, 336 s. Laser. ISBN 978-80-242-6848-4.
+  - JOSHI, S. T. Černá křídla Cthulhu 5: Dvacet nových povídek lovecraftovského hororu. Přeložil Milan ŽÁČEK, Báseň přebásnil Filip PARDY. Praha: Euromedia Group, 2020, 336 s. Laser. ISBN 978-80-242-6848-4.
+- Hemživý chaos a jiné příběhy - S. T. Joshi
+  - JOSHI, S. T. Hemživý chaos a jiné příběhy. Svazek první. Přeložili Milan ŽÁČEK a Stanislava POŠUSTOVÁ-MENŠÍKOVÁ, Ilustroval Mikuláš PODPROCKÝ, Redakce Patrik LINHART a Petr STEJSKAL. Praha: Argo, 2020, 464 s. Fantastika. ISBN 978-80-257-2828-4. Revize a spolupráce H. P. Lovecrafta.
 
 # 2019
 
