@@ -19,6 +19,8 @@ subtitle: Literární, audio, či vizuální dílo HPL v Česku a Slovensku
 
 # 2020
 
+- Barva z kosmu - H. P. Lovecraft
+  - LOVECRAFT, H. P. Barva z kosmu. Přeložil Milan ŽÁČEK, Redakce a korektury Tat & Cass, Petr STEJSKAL a Patrik LINHART. Kroměříž: Carcosa, 2020, 320 s. ISBN 978-80-88243-35-9.
 - Černá křídla Cthulhu 5 - S. T. Joshi
   - JOSHI, S. T. Černá křídla Cthulhu 5: Dvacet nových povídek lovecraftovského hororu. Přeložil Milan ŽÁČEK, Přebásnil Filip PARDY. Praha: Euromedia Group, 2020, 336 s. Laser. ISBN 978-80-242-6848-4.
 
@@ -26,6 +28,8 @@ subtitle: Literární, audio, či vizuální dílo HPL v Česku a Slovensku
 
 - Temnota nepomíjí - Artur Machen
   - MACHEN, Arthur. Temnota nepomíjí. Přeložil Patrik LINHART, Editoval Petr STEJSKAL, Doslov Martin MRSKOŠ. [Praha]: Malvern, 2019, 256 s. ISBN 978-80-7530-201-4.
+- Tramvaj č. 1852 - Lee Edward
+  - LEE, Edward. Tramvaj č. 1852. Přeložil Milan ŽÁČEK, Redakce a korektury Petr STEJSKAL a Partrik LINHART. Kroměříž: Carcosa, 2019, 144 s. ISBN 978-80-88243-25-0.
 
 # 2017
 
