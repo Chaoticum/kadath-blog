@@ -6,7 +6,7 @@ date: 2021-01-01
 thumbnail-img: /assets/post-img/2021-01-01-seste-pokracovani-lovecraftovske-kolekce-labelu-cryo-chamber/01-thumb-cryo-chamber-yig.jpg
 cover-img: /assets/post-img/2021-01-01-seste-pokracovani-lovecraftovske-kolekce-labelu-cryo-chamber/02-cover-cryo-chamber-yig.jpg
 share-img: /assets/post-img/2021-01-01-seste-pokracovani-lovecraftovske-kolekce-labelu-cryo-chamber/02-cover-cryo-chamber-yig.jpg
-author: Lovecraftian Dreamer
+author: Chaoticum
 tags: [novinky]
 ---
 

@@ -6,7 +6,7 @@ date: 2019-02-16
 thumbnail-img: /assets/post-img/2019-02-16-madmind-studio-predstavilo-trailer-pripravovane-hry-succubus/01-thumb-succubus.jpg
 cover-img: /assets/post-img/2019-02-16-madmind-studio-predstavilo-trailer-pripravovane-hry-succubus/02-cover-succubus.jpg
 share-img: /assets/post-img/2019-02-16-madmind-studio-predstavilo-trailer-pripravovane-hry-succubus/02-cover-succubus.jpg
-author: Lovecraftian Dreamer
+author: Chaoticum
 tags: [novinky]
 ---
 

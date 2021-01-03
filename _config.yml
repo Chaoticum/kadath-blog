@@ -4,11 +4,12 @@ title: Kadath
 
 description: Světy utkané ze snů a temnoty
 
-author: Lovecraftian Dreamer
+author: Chaoticum
 
 navbar-links:
- Lovecraftovské publikace: "publikace"
- Kontakt: "kontakt"
+ Lovecraftovské publikace: "publikace/"
+ Kontakt: "kontakt/"
+# Bazar: "bazar/"
 # Nejaky odkaz: "https://kadath.cz"
 
 # --- Logo --- #

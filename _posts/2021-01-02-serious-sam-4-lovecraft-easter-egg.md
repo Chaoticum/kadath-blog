@@ -6,7 +6,7 @@ date: 2021-01-02
 thumbnail-img: /assets/post-img/2021-01-02-serious-sam-4-lovecraft-easter-egg/01-thumb-serious-sam-4.jpg
 cover-img: /assets/post-img/2021-01-02-serious-sam-4-lovecraft-easter-egg/02-cover-serious-sam-4.jpg
 share-img: /assets/post-img/2021-01-02-serious-sam-4-lovecraft-easter-egg/02-cover-serious-sam-4.jpg
-author: Lovecraftian Dreamer
+author: Chaoticum
 tags: [novinky]
 ---
 

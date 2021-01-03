@@ -28,6 +28,8 @@ subtitle: Literární, audio, či vizuální dílo HPL v Česku a Slovensku
 
 # 2019
 
+- Howard P. Lovecraft: Ten, kdo psal v temnotách - Alex Nikolavitch Racunica
+  - RACUNICA, Alex Nikolavitch, Carlos AÓN, Gervasio BENÍTEZ a Lara LEE. Howard P. Lovecraft: Ten, kdo psal v temnotách. PřeložilTomáš KYBAL, Redakce Terezie HOUŠKOVÁ a Patrik LINHART. Praha: Volvox Globator, 2019, 112 s. ISBN 978-80-7511-500-3.
 - Temnota nepomíjí - Artur Machen
   - MACHEN, Arthur. Temnota nepomíjí. Přeložil Patrik LINHART, Editoval Petr STEJSKAL, Doslov Martin MRSKOŠ. [Praha]: Malvern, 2019, 256 s. ISBN 978-80-7530-201-4.
 - Tramvaj č. 1852 - Lee Edward

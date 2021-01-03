@@ -6,7 +6,7 @@ date: 2019-03-02
 thumbnail-img: /assets/post-img/2019-03-02-recenze-hry-agony-unrated/01-thumb-agony-unrated.jpg
 cover-img: /assets/post-img/2019-03-02-recenze-hry-agony-unrated/02-cover-agony-unrated.jpg
 share-img: /assets/post-img/2019-03-02-recenze-hry-agony-unrated/02-cover-agony-unrated.jpg
-author: Lovecraftian Dreamer
+author: Chaoticum
 tags: [recenze]
 ---
 
@@ -137,7 +137,7 @@ Spektrum chyb je však natolik široké a frustrující, že není možné je ig
 
 Celkové ztvárnění pekla a démonů je ovšem báječné a kreativní. Určitě stojí za to hru vyzkoušet a užít si pekelné scenérie. A třeba vás to i nakonec chytne. Jisté ovšem je, že tvůrci Agony promarnili obrovský potenciál, který nejspíše nenapraví ani [připravovaný spin-off SUCCUBUS](https://kadath.cz/madmind-studio-predstavilo-trailer-pripravovane-hry-succubus/).
 
-Nepochybně by se dalo napsat mnoho dalších slov chvály i oprávněné kritiky. Vše podstatné už ale bylo zmíněné a nemá cenu to dál rozmazávat. 
+Nepochybně by se dalo napsat mnoho dalších slov chvály i oprávněné kritiky. Vše podstatné už ale bylo zmíněné a nemá cenu to dál rozmazávat.
 
 ## Galerie pekelných výjevů
 

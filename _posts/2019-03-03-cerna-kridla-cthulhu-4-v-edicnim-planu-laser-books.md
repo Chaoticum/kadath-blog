@@ -6,7 +6,7 @@ date: 2019-03-03
 thumbnail-img: /assets/post-img/2019-03-03-cerna-kridla-cthulhu-4-v-edicnim-planu-laser-books/01-thumb-kridla-4.jpg
 cover-img: /assets/post-img/2019-03-03-cerna-kridla-cthulhu-4-v-edicnim-planu-laser-books/02-cover-kridla-4.jpg
 share-img: /assets/post-img/2019-03-03-cerna-kridla-cthulhu-4-v-edicnim-planu-laser-books/02-cover-kridla-4.jpg
-author: Lovecraftian Dreamer
+author: Chaoticum
 tags: [novinky]
 ---
 
