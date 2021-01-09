@@ -6,14 +6,14 @@ subtitle: Literární, audio, či vizuální dílo HPL v Česku a Slovensku
 
 # 2021
 
-### Vychází
+### Letos vychází
 
 - Neonomicon - Alan Moore - Argo - 31. 1. 2021
 - Pahorek snů - Artur Machen - Malvern - ???
 - Černá křídla Cthulhu 6 - S. T. Joshi - Laser - ???
 - Cosi zdola - S. T. Joshi - Carcosa - ???
 
-### Vyšlo
+### Letos vyšlo
 
 - zatím nic
 
@@ -38,6 +38,7 @@ subtitle: Literární, audio, či vizuální dílo HPL v Česku a Slovensku
 - Houby z Yuggothu - Howard Phillips Lovecraft (Straky na vrbě)
 - Houby z Yuggothu - Howard Phillips Lovecraft (Volvox Globator)
 - Černá křídla Cthulhu 4 - S. T. Joshi (Laser-books)
+- Providence - Alan Moore (Argo)
 
 # 2018
 
