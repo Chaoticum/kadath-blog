@@ -26,6 +26,7 @@ subtitle: Literární, audio, či vizuální dílo HPL v Česku a Slovensku
 - Hemživý chaos a jiné příběhy - Howard Phillips Lovecraft & S. T. Joshi (Argo)
   - JOSHI, S. T. Hemživý chaos a jiné příběhy. Svazek první. Přeložili Milan ŽÁČEK a Stanislava POŠUSTOVÁ-MENŠÍKOVÁ, Ilustroval Mikuláš PODPROCKÝ, Redakce Patrik LINHART a Petr STEJSKAL. Praha: Argo, 2020, 464 s. Fantastika. ISBN 978-80-257-2828-4. Revize a spolupráce H. P. Lovecrafta.
 - Smyčka Medúzy a jiné příběhy - Howard Phillips Lovecraft & S. T. Joshi (Argo)
+- Dům do krajiny bezbožných - Ivo Hury (True Paperback)
 
 # 2019
 
@@ -37,12 +38,17 @@ subtitle: Literární, audio, či vizuální dílo HPL v Česku a Slovensku
   - LEE, Edward. Tramvaj č. 1852. Přeložil Milan ŽÁČEK, Redakce a korektury Petr STEJSKAL a Partrik LINHART. Kroměříž: Carcosa, 2019, 144 s. ISBN 978-80-88243-25-0.
 - Houby z Yuggothu - Howard Phillips Lovecraft (Straky na vrbě)
 - Houby z Yuggothu - Howard Phillips Lovecraft (Volvox Globator)
+  - Vyšlo také jako limitovaná edice.
 - Černá křídla Cthulhu 4 - S. T. Joshi (Laser-books)
 - Providence - Alan Moore (Argo)
+  - Vyšlo také v limitované edici.
 
 # 2018
 
 - Vrby - Algernon Blackwood (Vyšehrad)
+- Lovecraftova země - Matt Ruff (Baronet)
+- Z neznámého světa a další příběhy - Erik Kriek (Argo)
+- Noční oceán - Paul La Farge (Paseka)
 
 # 2017
 
@@ -50,15 +56,28 @@ subtitle: Literární, audio, či vizuální dílo HPL v Česku a Slovensku
   - LOVECRAFT, H. P. Zjevení Cthulhu. Třetí vydání, (v Carcose vydání první). Přeložil Milan ŽÁČEK. Kroměříž: Carcosa, 2017, 320 s. ISBN 978-80-88243-06-9.
   - Třetí české vydání této sbírky, první je z roku 2002 (Aurora), druhé je z roku 2010 (Laser-books).
 - Černá křídla Cthulhu 3 - S. T. Joshi (Laser-books)
+- Ta nádherná věc, jež na nás všechny čeká - Laird Barron (Gnóm!)
+- Lovecraftova družina: Horor u Všech svatých - Stephen Jones & John Llewellyn Probert (XYZ (ČR))
+- Co přichází se stíny - Robin Nasadil (Beletris)
 
 # 2016
 
 - Strážci z hlubin času - Howard Phillips Lovecraft & August Derleth (Volvox Globator)
 - Příšerný ženich a další příběhy mistrů hororu - více autorů (Garamond)
+- Okultace a jiné povídky - Laird Barron (Laser-books)
+- Život je bolestný a přináší zklamání: Massakr Vol.1 : Lovecraft - Otto M. Urban (Galerie města Plzně)
+- Zámek a klíč 5. - Časohrátky - Joe Hill (Comics Centrum)
+  - Vyšlo jako paperback i v pevné vazbě.
+- Zámek a klíč 6. - Alfa a omega - Joe Hill (Comics Centrum)
+  - Vyšlo jako paperback i v pevné vazbě.
 
 # 2015
 
 - Černá křídla Cthulhu 2 - S. T. Joshi (Laser-books)
+- Zámek a klíč 3. - Koruna stínů - Joe Hill (Comics Centrum)
+  - Vyšlo jako paperback i v pevné vazbě.
+- Zámek a klíč 4. - Klíče království - Joe Hill (Comics Centrum)
+  - Vyšlo jako paperback i v pevné vazbě.
 
 # 2014
 
@@ -68,6 +87,9 @@ subtitle: Literární, audio, či vizuální dílo HPL v Česku a Slovensku
 # 2013
 
 - Stín z času - Howard Phillips Lovecraft (Plus)
+- Zámek a klíč 2. - Hlavohrátky - Joe Hill (Comics Centrum)
+  - Vyšlo jako paperback i v pevné vazbě.
+  - Vyšlo také v limitované edici 100 výtisků.
 
 # 2012
 
@@ -77,6 +99,8 @@ subtitle: Literární, audio, či vizuální dílo HPL v Česku a Slovensku
 
 - Volání Cthulhu 1 - Howard Phillips Lovecraft (Plus)
 - Měsíční močál - Howard Phillips Lovecraft (Plus)
+- Zámek a klíč 1. - Vítejte v Lovecraftu - Joe Hill (Comics Centrum)
+  - Vyšlo jako paperback i v pevné vazbě.
 
 # 2010
 
@@ -87,6 +111,7 @@ subtitle: Literární, audio, či vizuální dílo HPL v Česku a Slovensku
 
 # 2009
 
+- Sběratel měst - Pavel Houser (Dokořán)
 - Prichádza z temnôt - Howard Phillips Lovecraft (Formát) [SK]
 
 # 2008
@@ -101,6 +126,7 @@ subtitle: Literární, audio, či vizuální dílo HPL v Česku a Slovensku
 
 # 1999
 
+- Nekros a jiné noční můry - Brian Lumley (Polaris)
 - Tá vec na prahu - Howard Phillips Lovecraft (Knižná dielňa Timotej) [SK]
 
 # 1998
@@ -111,6 +137,7 @@ subtitle: Literární, audio, či vizuální dílo HPL v Česku a Slovensku
 
 - Stín z času a jiné horrory - Howard Phillips Lovecraft (Zlatý kůň)
 - Nadprirodzená hrôza v literatúre - Howard Phillips Lovecraft (Agentúra Fisher & Formát)
+- Dům na rozhraní - William Hope Hodgson (AF 167)
 
 # 1996
 
